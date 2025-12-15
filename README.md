@@ -4,11 +4,11 @@
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Try 
 
 ## Supported Hardware
 
-This code has been verified to work with the following devices.
+This code has been verified to work with the following device
 
 * ex. Device 1
 * ex. Device 2
